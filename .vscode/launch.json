@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net6.0/3-Classes-Strother.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name":".NET Core Attach",
+            "type":"coreclr",
+            "request":"attach"
+        }
+
+
+    ]
+}

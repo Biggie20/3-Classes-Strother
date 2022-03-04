@@ -1,0 +1,15 @@
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.csproj.AssemblyReference.cache
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.AssemblyInfoInputs.cache
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.AssemblyInfo.cs
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.csproj.CoreCompileInputs.cache
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\bin\Debug\net6.0\3-Classes-Strother.exe
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\bin\Debug\net6.0\3-Classes-Strother.deps.json
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\bin\Debug\net6.0\3-Classes-Strother.runtimeconfig.json
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\bin\Debug\net6.0\3-Classes-Strother.dll
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\bin\Debug\net6.0\ref\3-Classes-Strother.dll
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\bin\Debug\net6.0\3-Classes-Strother.pdb
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.dll
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\ref\3-Classes-Strother.dll
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.pdb
+C:\Users\strot\OneDrive\Documents\3-Classes-Strother\obj\Debug\net6.0\3-Classes-Strother.genruntimeconfig.cache
